@@ -1,3 +1,3 @@
-# my webdevelopment project
-this project is to learn web development
+# WEB DEVELOPMENT PROJECT
+This Project is to learn WEB DEVELOPMENT
 my website : kirannambiar.ml
